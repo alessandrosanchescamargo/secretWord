@@ -1,0 +1,8 @@
+.gameOver h1{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.gameOver h2{
+    color: #ecfa0e;
+    font-size: 1.5em;
+}
